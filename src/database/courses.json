@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "React",
+      "description": "Learn how to build web applications with React"
+    },
+    {
+      "id": 2,
+      "name": "Node.js",
+      "description": "Learn how to build backend applications with Node.js"
+    },
+    {
+      "id": 3,
+      "name": "TypeScript",
+      "description": "Learn how to write type-safe JavaScript with TypeScript"
+    }
+  ]
+}

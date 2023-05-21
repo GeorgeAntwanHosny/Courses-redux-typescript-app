@@ -39,6 +39,23 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## State Management
+
+- I used Redx to manage my app state like Courses.
+- apply the CRUD opertions by using Redux.
+
+## `npm run server`
+
+- to work with `json-serve`.
+- apply CRUD opertions by working from `courses.json` file.
+
+## styling my app
+
+- by using Bulma: the modern
+CSS framework.
+
+- Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces.
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
